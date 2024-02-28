@@ -1,1 +1,2 @@
 # MolochHealing
+![](MolochHealing.png)
